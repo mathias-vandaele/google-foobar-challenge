@@ -1,4 +1,4 @@
-package dev.mathias.exercice_3_2;
+package dev.mathias.exercise_3_2;
 
 import java.util.ArrayDeque;
 import java.util.Arrays;

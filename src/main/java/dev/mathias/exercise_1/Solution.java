@@ -1,4 +1,4 @@
-package dev.mathias.exercice_1;
+package dev.mathias.exercise_1;
 
 public class Solution {
 

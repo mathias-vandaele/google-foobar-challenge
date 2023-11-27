@@ -1,4 +1,4 @@
-package dev.mathias.exercice_3_1;
+package dev.mathias.exercise_3_1;
 
 import static org.junit.Assert.assertArrayEquals;
 

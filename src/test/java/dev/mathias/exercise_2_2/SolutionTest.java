@@ -1,4 +1,4 @@
-package dev.mathias.exercice_2_2;
+package dev.mathias.exercise_2_2;
 
 import java.util.Arrays;
 import junit.framework.TestCase;

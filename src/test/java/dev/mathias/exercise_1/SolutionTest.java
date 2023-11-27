@@ -1,10 +1,10 @@
-package dev.mathias.exercice_2_1;
+package dev.mathias.exercise_1;
 
 import junit.framework.TestCase;
 
 public class SolutionTest extends TestCase {
 
   public void testSolution() {
-    assertEquals(3, Solution.solution(0, 1));
+    assertEquals(25293, Solution.solution(16));
   }
 }
